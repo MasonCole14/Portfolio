@@ -16,6 +16,7 @@ My personal website where you can learn something about me and see my personal p
 ## Built with
 
 - React
+- JavaScript
 - TailwindCSS
 - HTML
 - CSS
@@ -28,7 +29,5 @@ My personal website where you can learn something about me and see my personal p
 - Fully Responsive
 - Mobile-first
 
-
-## Screenshots
 
 ![App Screenshot](src/assets/screenshot1.jpeg)
